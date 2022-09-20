@@ -11,7 +11,7 @@ This class is a blended course. This means that we will complete coursework and 
 |	Topics  |	Readings  |	Activities | Assignments |
 | ------------ |  ---------- |  ----------- |    ---------- |
 | Digital Technology is not Neutral | [Hybrid Pedagogy: Principals of Learning in the Digital Age](https://hybridpedagogy.org/bill-rights-principles-learning-digital-age/); Emily Drabinski, [“Ideologies of Boring Things: The Internet and Infrastructures of Race“](https://lareviewofbooks.org/article/ideologies-of-boring-things-the-internet-and-infrastructures-of-race/); Elijah Meeks, [An Introduction to Digital Humanities](https://youtu.be/AvZToQSX244) | [Introduction to Hypothes.is](https://web.hypothes.is/)| Annotations |
-| What is digital humanities?, What is data in the humanities? | A Short Guide to Digital Humanities (Canvas); William G. Thomas, “What we think we build..”, Trevor Owens, Please Write It Down, Miriam Posner, “How did they make that?”, Paige Morgan, “What do Digital Humanists Do?” | Mapping DH | Annotations |
+| What is digital humanities?, What is data in the humanities? | A Short Guide to Digital Humanities ([Canvas](https://canvas.instructure.com/courses/5325378Canvas)); William G. Thomas, “What we think we build..”, Trevor Owens, Please Write It Down, Miriam Posner, “How did they make that?”, Paige Morgan, “What do Digital Humanists Do?” | Mapping DH | Annotations |
 | What is metadata? | NISO, “Understanding Metadata” | Introduction to Zotero | Annotations |
 | Data mining and data curation | Miriam Posner, Humanities Data as a Necessary Contradiction | Examples of Data | Annotations |
 | Working with Data | Christoph Schoch, Big? Smart? Clean? Messy? Data in the Humanities | Introduction to dLOC | Annotations |
