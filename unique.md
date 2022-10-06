@@ -1,3 +1,9 @@
+---
+layout: page
+title: unique
+permalink: /unique
+---
+
 __Alien Superstar__
 
 
