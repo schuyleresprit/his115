@@ -8,7 +8,7 @@ __WEEKLY COURSE SCHEDULE__
 
 This class is a blended course. This means that we will complete coursework and discussion in a virtual environment and you will also responsible for completing portions of the course independently. You will be expected to fully participate in both aspects of the course and to attend all the scheduled class meetings.  You are responsible for completing and responding to all reading assignments, according to the blog guidelines as described on the Assignments page.
 
-Semester 1
+__Semester 1__
 
 |	Topics  |	Readings  |	Activities | Assignments |
 | ------------ |  ---------- |  ----------- |    ---------- |
@@ -21,7 +21,7 @@ Semester 1
 | Archives and Repositories | Miguel Escobar Varela, [The Archive as Repertoire: Transience and Sustainability in Digital Archives](http://www.digitalhumanities.org/dhq/vol/10/4/000269/000269.html) | Introduction to Omeka | Test Omeka Page |
 | Mapping and Digital Storytelling | Jim Detwiler, [Introduction to Web Mapping](https://web.archive.org/web/20100731081233/https://www.e-education.psu.edu/geog863/book/export/html/1904) | Introduction to [Neatline](https://neatline.org/), 	Introduction to [Knight Lab – StoryMaps and Timeline](https://knightlab.northwestern.edu/projects/) | DH Project Review 1 |
 
-Semester 2
+__Semester 2__
 
 |	Topics  |	Readings  |	Activities | Assignments |
 | ------------ |  ---------- |  ----------- |    ---------- |
