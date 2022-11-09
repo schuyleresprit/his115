@@ -8,6 +8,8 @@ __WEEKLY COURSE SCHEDULE__
 
 This class is a blended course. This means that we will complete coursework and discussion in a virtual environment and you will also responsible for completing portions of the course independently. You will be expected to fully participate in both aspects of the course and to attend all the scheduled class meetings.  You are responsible for completing and responding to all reading assignments, according to the blog guidelines as described on the Assignments page.
 
+Semester 1
+
 |	Topics  |	Readings  |	Activities | Assignments |
 | ------------ |  ---------- |  ----------- |    ---------- |
 | Digital Technology is not Neutral | [Hybrid Pedagogy: Principals of Learning in the Digital Age](https://hybridpedagogy.org/bill-rights-principles-learning-digital-age/); Emily Drabinski, [“Ideologies of Boring Things: The Internet and Infrastructures of Race“](https://lareviewofbooks.org/article/ideologies-of-boring-things-the-internet-and-infrastructures-of-race/); Elijah Meeks, [An Introduction to Digital Humanities](https://youtu.be/AvZToQSX244) | [Introduction to Hypothes.is](https://web.hypothes.is/)| Annotations |
@@ -17,7 +19,12 @@ This class is a blended course. This means that we will complete coursework and 
 | Working with Data | Christoph Schoch, [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/) | Introduction to [dLOC](https://dloc.com/) | Annotations |
 | Topic Modeling |	[Megan R. Brett, Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) | I Introduction to Voyant, YouTube Tutorial on Voyant | Annotations |
 | Archives and Repositories | Miguel Escobar Varela, [The Archive as Repertoire: Transience and Sustainability in Digital Archives](http://www.digitalhumanities.org/dhq/vol/10/4/000269/000269.html) | Introduction to Omeka | Test Omeka Page |
-| Mapping and Digital Storytelling | Jim Detwiler, [Introduction to Web Mapping](https://web.archive.org/web/20100731081233/https://www.e-education.psu.edu/geog863/book/export/html/1904) | Introduction to Neatline, 	Introduction to Knight Lab – StoryMaps and Timeline | DH Project Review 1 |
+| Mapping and Digital Storytelling | Jim Detwiler, [Introduction to Web Mapping](https://web.archive.org/web/20100731081233/https://www.e-education.psu.edu/geog863/book/export/html/1904) | Introduction to [Neatline](https://neatline.org/), 	Introduction to [Knight Lab – StoryMaps and Timeline](https://knightlab.northwestern.edu/projects/) | DH Project Review 1 |
+
+Semester 2
+
+|	Topics  |	Readings  |	Activities | Assignments |
+| ------------ |  ---------- |  ----------- |    ---------- |
 | Introduction to Caribbean Digital Studies |	Kaiama Glover, The Caribbean Digital: Pioneering the Caribbean Digital, Kelly Baker Josephs, “DH Moments, Caribbean Considerations” | TBD | Annotations |
 | The project: introduction and methods | Laura Estill, Collaborative Knowledge and Student-Led Design, Douglas Seefeldt and William G Thomas, III, “What is digital history?” | TBD | Annotations |
 | Designing DH research; DH project management | Carole Palmer, Thematic Research Collections, Daniel Pitti, Designing Sustainable Projects and Publications | TBD | Annotations |
