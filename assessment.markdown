@@ -37,6 +37,18 @@ For Project Reviews 2 and 3, please consider:
 
 Each review is worth 50 points.
 
+_Annotations_
+
+For every topic you will be asked to read and annotate at least one of the week's assigned essays using the Hypothes.is tool. Annotations generally are comments, critiques or questions on points made by the author. You are encouraged to respond with your thoughts and informed opinions, make connections to other readings or topics we have discussed in class or that you have learned in other contexts, and to ask questions about the possibilities, challenges or clarity of the author's statements. You are expected to have a minimum of three (3) annotations on a single essay per topic. The scoring is out of 10 points and the rubric scale is as follows:
+
+| Score | Criteria |
+| ------ | -------- |
+| 10 | Comments and questions are clearly written, show understanding of and engagement with the work and also demonstrate critical thinking in direct relation to topic and course material |
+| 8 | Comments and questions are clearly written and show understanding of and engagement with the work, but show weakness in making critical connections to the topic and course material |
+| 6 | Comments and questions are brief or lack sophistication. They may show some basic understanding of the work but have gaps in critical thinking related to topic and course material |
+| 4 | Annotations show basic understanding and engagement with the work, with no critical connections being made to the topic or course material. There may be challenges in language and clarity of the writing. |
+| 2 | Annotations demonstrate lack of understanding or engagement with the work. May also indicate rush or lack of reading of course material.| 
+
 _Group Work and Participation_
 
 Digital Humanities is a collaborative field of study. Much of the work we do this semester will require us working as a large collective or in smaller team. You will be responsible for and accountable to the larger community of learners by completing your tasks on time, providing encouragement and support to others and seeking assistance where necessary. Your ability to consistently work in a team situation will be assessed as part of this course. This will also include a project contribution statement, which will be submitted as part of the final project.
