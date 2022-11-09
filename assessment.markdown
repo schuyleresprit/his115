@@ -33,7 +33,8 @@ You will complete three (3) separate reviews of digital humanities project from 
 
 For Project Reviews 2 and 3, please consider:
 
-6. What have you learned from the project you reviewed from Project Review #1?  In what ways can these projects be improved based on elements of the previous projects and vice versa?
+6. What have you learned from the project you reviewed from Project Review #1?  
+7. In what ways can these projects be improved based on elements of the previous projects and vice versa?
 
 Each review is worth 50 points.
 
