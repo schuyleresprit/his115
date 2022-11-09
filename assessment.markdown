@@ -11,13 +11,15 @@ Resources: Students are encouraged to bring personal laptops and or tablets for 
 
 __Grading/Evaluation Criteria__
 
-Attendance and Participation	100 points
-DH Project Reviews	150 points
-Group Work and Participation	150 points
-Blog – Reading Responses	200 points
-Final Project – Digital	300 points
-Final Project Presentation	100 points
- TOTAL	1000 points
+|Assessment | Points |
+| --------- | ------- |
+| Attendance and Participation |	100 points |
+| DH Project Reviews |	150 points |
+| Group Work and Participation |	150 points |
+| Annotations |	200 points |
+| Final Project – Digital | 300 points |
+| Final Project Presentation | 100 points |
+| TOTAL	| 1000 points |
 
 __DH Project Reviews__
 
