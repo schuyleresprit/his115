@@ -37,6 +37,19 @@ For Project Reviews 2 and 3, please consider:
 
 Each review is worth 50 points.
 
+You may select from one of the following projects:
+* [Aftermaths: Community Responses to Climate Disaster](https://climatesofinequality.org/story/aftermaths-community-responses-to-climate-disaster/)
+* [In the Same Boats](https://sameboats.org/)
+* [Radio Haiti Archive](https://repository.duke.edu/dc/radiohaiti)
+* [Mapping Marronage](https://www.mappingmarronage.com/)
+* [Slave Revolt in Jamaica, 1760-1761](http://revolt.axismaps.com/)
+* [Torn Apart/ Separados](https://xpmethod.columbia.edu/torn-apart/volume/2/)
+* [Viral Texts](https://viraltexts.org/)
+* [Two Plantations](http://www.twoplantations.com/)
+* [Mapping the Haitian Revolution](https://www.mappinghaitianrevolution.com/)
+* [The New Map of Empire](http://mapscholar.org/empire/)
+
+
 _Annotations_
 
 For every topic you will be asked to read and annotate at least one of the week's assigned essays using the Hypothes.is tool. Annotations generally are comments, critiques or questions on points made by the author. You are encouraged to respond with your thoughts and informed opinions, make connections to other readings or topics we have discussed in class or that you have learned in other contexts, and to ask questions about the possibilities, challenges or clarity of the author's statements. You are expected to have a minimum of three (3) annotations on a single essay per topic. The scoring is out of 10 points and the rubric scale is as follows:
@@ -47,7 +60,7 @@ For every topic you will be asked to read and annotate at least one of the week'
 | 8 | Comments and questions are clearly written and show understanding of and engagement with the work, but show weakness in making critical connections to the topic and course material |
 | 6 | Comments and questions are brief or lack sophistication. They may show some basic understanding of the work but have gaps in critical thinking related to topic and course material |
 | 4 | Annotations show basic understanding and engagement with the work, with no critical connections being made to the topic or course material. There may be challenges in language and clarity of the writing. |
-| 2 | Annotations demonstrate lack of understanding or engagement with the work. May also indicate rush or lack of reading of course material.| 
+| 2 | Annotations demonstrate lack of understanding or engagement with the work. May also indicate rush or lack of reading of course material.|
 
 _Group Work and Participation_
 
