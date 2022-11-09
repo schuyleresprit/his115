@@ -17,8 +17,8 @@ __Semester 1__
 | What is metadata? | NISO, [“Understanding Metadata”](https://www.lter.uaf.edu/metadata_files/UnderstandingMetadata.pdf) | Introduction to [Zotero](https://www.zotero.org/) | Annotations |
 | Data mining and data curation | Miriam Posner, [Humanities Data as a Necessary Contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/) | Introduction to [Github](https://github.com/) | Annotations |
 | Working with Data | Christoph Schoch, [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/) | Introduction to [dLOC](https://dloc.com/) | Annotations |
-| Topic Modeling |	[Megan R. Brett, Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) | I Introduction to Voyant, YouTube Tutorial on Voyant | Annotations |
-| Archives and Repositories | Miguel Escobar Varela, [The Archive as Repertoire: Transience and Sustainability in Digital Archives](http://www.digitalhumanities.org/dhq/vol/10/4/000269/000269.html) | Introduction to Omeka | Test Omeka Page |
+| Topic Modeling |	[Megan R. Brett, Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) | I Introduction to [Voyant](https://voyant-tools.org/), YouTube Tutorial on [Voyant](https://www.youtube.com/watch?v=OtW5qo3Y2Sc&feature=youtu.be) | Annotations |
+| Archives and Repositories | Miguel Escobar Varela, [The Archive as Repertoire: Transience and Sustainability in Digital Archives](http://www.digitalhumanities.org/dhq/vol/10/4/000269/000269.html) | Introduction to [Omeka](https://omeka.org/) | Test Omeka Page |
 | Mapping and Digital Storytelling | Jim Detwiler, [Introduction to Web Mapping](https://web.archive.org/web/20100731081233/https://www.e-education.psu.edu/geog863/book/export/html/1904) | Introduction to [Neatline](https://neatline.org/), 	Introduction to [Knight Lab – StoryMaps and Timeline](https://knightlab.northwestern.edu/projects/) | DH Project Review 1 |
 
 __Semester 2__
