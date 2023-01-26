@@ -29,8 +29,8 @@ __Semester 2__
 | The project: introduction and methods | Laura Estill, [Collaborative Knowledge and Student-Led Design](http://digitalhumanities.org:8081/dhq/vol/11/3/000320/000320.html), Douglas Seefeldt and William G Thomas, III, [“What is digital history?”](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1097&context=historyfacpub) | TBD | Annotations |
 | Designing DH research; DH project management | Carole Palmer, [Thematic Research Collections](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_24.html), Daniel Pitti, [Designing Sustainable Projects and Publications](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_31.html) | TBD | Annotations |
 | Minimal Computing	| Introduction to Minimal Computing,  Alex Gil, [The User, The Learner and the Machines we Make](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) | [Introduction to Wax](https://minicomp.github.io/wax/) (prior computer prep), Introduction to Github
-| Minimal Computing | Introduction to Jekyll | Building Wax and Jekyll (prior computer prep) | DH Project Review 2 |
-| How to read, write, show/tell | Schuyler Esprit, Library as Text, Place and Tool, Kate Theimer, Archives in Context and as Context | Introduction to Twine | TBD |
+| Minimal Computing | Introduction to [Jekyll](https://jekyllrb.com/) | Building Wax and Jekyll (prior computer prep) | DH Project Review 2 |
+| How to read, write, show/tell | Schuyler Esprit, [Library as Text, Place and Tool](https://schuyleresprit.com/esprit/portfolio/topography-topology-typography-the-library-as-place-text-and-tool-in-caribbean-digital-research-classrooms/), Kate Theimer, Archives in Context and as Context | Introduction to Twine | TBD |
 | Telling Stories in Space and Place |	Jo Guldi, What is the Spatial Turn?, Jo Guldi, The Spatial Turn in Literature | Introduction to ArcGIS	|Reading blog post |
 | The Spatial Turn cont’d |	Eric Steiner, The Spatial History Project |
 Introduction to ArcGIS	| Proposal for Individual Projects Due |
