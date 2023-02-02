@@ -25,8 +25,8 @@ Architecture and Design
 5) In what ways have migration and displacement changed the configuration of communities - their physical capacity, their livability and their cultures?  
 
 
-__Points of Entry:__
-Arts - literature, music, visual and performing arts, cinema and film
+__Points of Entry:__  
+* Arts - literature, music, visual and performing arts, cinema and film
 * History
 * Geography/Planning and Development/Architecture
 * Sociology and Politics
@@ -35,7 +35,7 @@ Arts - literature, music, visual and performing arts, cinema and film
 * Ecology and Environment
 
 
-__Where do we begin?__
+__Where do we begin?__  
 1) Let's find out all the information that exists about Space and Place in the Caribbean through a deep dive into research and information platforms.
 
 2) We will consider the significance of the following terms and concepts in relation to the history, culture and economics of the region in broad and specific contexts: 
