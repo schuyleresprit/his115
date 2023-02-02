@@ -22,7 +22,7 @@ Visual and performing arts
 Film 
 Architecture and Design
 
-
+5) In what ways have migration and displacement changed the configuration of communities - their physical capacity, their livability and their cultures?  
 
 
 __Points of Entry:__
