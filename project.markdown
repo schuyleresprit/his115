@@ -11,16 +11,16 @@ For this project, we will explore ideas and questions that connect the landscape
 1) What is the historical significance of land and sea in the Caribbean imaginary? 
 2) How does place/space affect the nature and quality of people’s lives in the Caribbean? 
 3) How and why have institutions and systems shifted our relationships to these physical and imagined locations over time? 
-Landscapes of cities 
-‘Natural’ disasters  
-Colonial violence 
-Modernity and Development
+* Landscapes of cities 
+* ‘Natural’ disasters  
+* Colonial violence 
+* Modernity and Development
 
 4) How have the relationships with place and space influenced art production in the Caribbean, from representation to aesthetics? 
-Historical fiction and imaginative literature 
-Visual and performing arts
-Film 
-Architecture and Design
+* Historical fiction and imaginative literature 
+* Visual and performing arts
+* Film 
+* Architecture and Design
 
 5) In what ways have migration and displacement changed the configuration of communities - their physical capacity, their livability and their cultures?  
 
