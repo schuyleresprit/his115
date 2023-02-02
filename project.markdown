@@ -35,5 +35,30 @@ Human Experience*** (individuation, psychology, philosophy)
 Ecology and Environment
 
 
-Where do we begin?
+__Where do we begin?__
 1) Let's find out all the information that exists about Space and Place in the Caribbean through a deep dive into research and information platforms.
+
+2) We will consider the significance of the following terms and concepts in relation to the history, culture and economics of the region in broad and specific contexts: 
+Motherland/ The continent/ Africa
+The plantation
+The estate
+The sea
+The land
+forest/bush yard
+River (waterfall)
+‘ti Kai’ - little house
+Row house / core house
+the town
+the city
+kitchen - indoor/outdoor
+the ship/boat/canoe
+Garden 
+garden/farm 
+village/community
+church
+school
+big house
+the library?
+the prison
+Babylon vs. Zion 
+Ethiopia The Bay/Bayside
