@@ -27,38 +27,38 @@ Architecture and Design
 
 __Points of Entry:__
 Arts - literature, music, visual and performing arts, cinema and film
-History
-Geography/Planning and Development/Architecture
-Sociology and Politics
-Economics (tourism?)
-Human Experience*** (individuation, psychology, philosophy)
-Ecology and Environment
+* History
+* Geography/Planning and Development/Architecture
+* Sociology and Politics
+* Economics (tourism?)
+* Human Experience*** (individuation, psychology, philosophy)
+* Ecology and Environment
 
 
 __Where do we begin?__
 1) Let's find out all the information that exists about Space and Place in the Caribbean through a deep dive into research and information platforms.
 
 2) We will consider the significance of the following terms and concepts in relation to the history, culture and economics of the region in broad and specific contexts: 
-Motherland/ The continent/ Africa
-The plantation
-The estate
-The sea
-The land
-forest/bush yard
-River (waterfall)
-‘ti Kai’ - little house
-Row house / core house
-the town
-the city
-kitchen - indoor/outdoor
-the ship/boat/canoe
-Garden 
-garden/farm 
-village/community
-church
-school
-big house
-the library?
-the prison
-Babylon vs. Zion 
-Ethiopia The Bay/Bayside
+* Motherland/ The continent/ Africa
+* The plantation
+* The estate
+* The sea
+* The land
+* forest/bush yard
+* River (waterfall)
+* ‘ti Kai’ - little house
+* Row house / core house
+* the town
+* the city
+* kitchen - indoor/outdoor
+* the ship/boat/canoe
+* Garden 
+* garden/farm 
+* village/community
+* church
+* school
+* big house / great house
+* the library
+* the prison
+* Babylon vs. Zion 
+* The Bay/Bayside
