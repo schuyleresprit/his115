@@ -13,12 +13,10 @@ __Grading/Evaluation Criteria__
 
 |Assessment | Points |
 | --------- | ------- |
-| Attendance and Participation |	100 points |
-| DH Project Reviews |	150 points |
-| Group Work and Participation |	150 points |
-| Annotations |	200 points |
-| Final Project – Digital | 300 points |
-| Final Project Presentation | 100 points |
+| DH Project Reviews |	200 points |
+| Proposal and Literature Review |	200 points |
+| Team Challenges/ Group Work |	200 points |
+| Final Project – Digital | 400 points |
 | TOTAL	| 1000 points |
 
 __DH Project Reviews__

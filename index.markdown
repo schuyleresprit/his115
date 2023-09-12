@@ -4,7 +4,7 @@
 
 layout: home
 ---
-__Current Semester: Semester 1, 2022-2023__
+__Current Semester: Semester 1, 2023-2024__
 
 Digital Humanities Research (HIS115) is the first digital humanities course to be offered at Dominica State College (DSC). In fact, it is the first course of its kind to be offered at any college or university in the English-speaking Caribbean. The course was designed as part of Create Caribbean Research Institute‘s Research and Service-Learning Internship Program for DSC students.
 
