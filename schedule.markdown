@@ -37,13 +37,17 @@ Introduction to [Hypothesis](https://github.com/) |
 | Archives and Repositories | Miguel Escobar Varela, [The Archive as Repertoire: Transience and Sustainability in Digital Archives](http://www.digitalhumanities.org/dhq/vol/10/4/000269/000269.html) | Introduction to [Omeka](https://omeka.org/) | 
 
 ***Visualizing Archives and Data***  
-
+|	Topics  |	Readings  |	Activities |
+| ------------ |  ---------- |  ----------- | 
 | Mapping and Visualizations | Jim Detwiler, [Introduction to Web Mapping](https://web.archive.org/web/20100731081233/https://www.e-education.psu.edu/geog863/book/export/html/1904) | Introduction to [Knight Lab – StoryMaps and Timeline](https://knightlab.northwestern.edu/projects/) | 
 | Telling Stories in Space and Place |	Jo Guldi, What is the Spatial Turn?, Jo Guldi, The Spatial Turn in Literature | Introduction to ArcGIS	|
 | Digital Storytelling | | Introduction to Twine | TBD |
 | Digital Humanities and ethical storytelling | Introduction to Scalar	| TBD | 
 
-***Project Development and Management***
+***Project Development and Management***  
+
+|	Topics  |	Readings  |	Activities |
+| ------------ |  ---------- |  ----------- | 
 | The project: introduction and methods | Laura Estill, [Collaborative Knowledge and Student-Led Design](http://digitalhumanities.org:8081/dhq/vol/11/3/000320/000320.html), Douglas Seefeldt and William G Thomas, III, [“What is digital history?”](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1097&context=historyfacpub) | TBD | Annotations |
 | Designing DH research; DH project management | Carole Palmer, [Thematic Research Collections](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_24.html), Daniel Pitti, [Designing Sustainable Projects and Publications](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_31.html) | TBD | Annotations |
 | Minimal Computing	| Introduction to Minimal Computing,  Alex Gil, [The User, The Learner and the Machines we Make](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) | [Introduction to Wax](https://minicomp.github.io/wax/) (prior computer prep), Introduction to Github
@@ -51,5 +55,7 @@ Introduction to [Hypothesis](https://github.com/) |
 
 ***Broader Themes***
 
+|	Topics  |	Readings  |	Activities |
+| ------------ |  ---------- |  ----------- | 
 | Ethical Concerns in DH and data visualization| Christina Boyles, Making and Breaking: Teaching Information Ethics through Curatorial Practice |	TBD |
 | DH and the question of sustainability	| Introduction to Creative Commons	| TBD | 
