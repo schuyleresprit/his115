@@ -21,18 +21,13 @@ __Grading/Evaluation Criteria__
 
 __DH Project Reviews__
 
-You will complete three (3) separate reviews of digital humanities project from an available list. Each piece should be 500-700 words. Select from the digital humanities projects linked on the main page and prepare an evaluation of the content, research, tools and methods of that project. Consider the following questions and ensure that they are answered in your review:
+You will complete two (2) separate reviews of digital humanities project from an available list. Each piece should be 500-700 words. Select from the digital humanities projects listed below and prepare an evaluation of the content, research, tools and methods of that project. Consider the following questions and ensure that they are answered in your review:
 
 1. What is the project about? What is the major research question as you understand it?
 2. How did the researchers go about answering this question?
 3. What does the DH site look like? Describe the interface, including the aesthetics, accessibility of information, various pages included.
 4. What digital humanities tools are used to complete this project? Reference our readings on “What do digital humanists do?” “How do they make that?” and “Thematic Research Collections.” You can also look at the lecture Powerpoint to review relevant terms and tools.
 5. What do you think could be added/removed from this project to make it more effective in presenting the research?
-
-For Project Reviews 2 and 3, please consider:
-
-6. What have you learned from the project you reviewed from Project Review #1?  
-7. In what ways can these projects be improved based on elements of the previous projects and vice versa?
 
 Each review is worth 50 points.
 
@@ -65,9 +60,6 @@ _Group Work and Participation_
 
 Digital Humanities is a collaborative field of study. Much of the work we do this semester will require us working as a large collective or in smaller team. You will be responsible for and accountable to the larger community of learners by completing your tasks on time, providing encouragement and support to others and seeking assistance where necessary. Your ability to consistently work in a team situation will be assessed as part of this course. This will also include a project contribution statement, which will be submitted as part of the final project.
 
-Reading Responses
-
-This should be a 500 – 600 word reflection on one or more of the assigned readings or activities for the week.  All essays should be posted to the Course Blog, for which you have received login credentials. Remember that blogs are a form of public writing and your work will be visible to those who may encounter it. Be sure to submit your best work and be mindful to edit and proofread your work.
 
 __FINAL PROJECT__
 
