@@ -24,7 +24,7 @@ __Semester 1__
 
 |	Topics  |	Readings  |	Activities |
 | ------------ |  ---------- |  ----------- | 
-| Introduction to Plain Text Editing |[Markdown](https://programminghistorian.org/en/lessons/getting-started-with-markdown) | |
+| Introduction to Plain Text Editing | [Sustainable Authorship in Plain Text](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)| [Markdown](https://programminghistorian.org/en/lessons/getting-started-with-markdown) | 
 | Topic Modeling |	[Megan R. Brett, Topic Modeling: A Basic Introduction](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) |  Introduction to [Voyant](https://voyant-tools.org/), YouTube Tutorial on [Voyant](https://www.youtube.com/watch?v=OtW5qo3Y2Sc&feature=youtu.be) | 
 | Electronic Texts and Text Encoding | Nebraska CDRH, [Basic Guide to Text Encoding](https://cdrh.unl.edu/articles/basicguide), Introduction to [XML](https://tei-c.org/release/doc/tei-p5-doc/en/html/SG.html), [TEI by Example](https://teibyexample.org/tests/TBED02v00.htm) | Video Tutorial, Introduction to [XML and TEI](https://app.vidgrid.com/view/CvNo3N6ZI9Ey/?sr=vNo00R), Video Tutorial, [Encoding with TEI](https://app.vidgrid.com/view/Oe9Imd6VRiwF/?sr=QVuM6E) |
 
