@@ -16,9 +16,8 @@ __Semester 1__
 | ------------ |  ---------- |  ----------- |    
 | Cultures of Technology | Once Upon an Algorithm | | 
 | What is digital humanities? | A Short Guide to Digital Humanities ([Canvas](assets/shortguide_dh.pdf)); Miriam Posner, [“How did they make that?”](http://miriamposner.com/blog/how-did-they-make-that/); Paige Morgan, [“What do Digital Humanists Do?”](https://schuyleresprit.com/his115/wp-content/uploads/2021/09/What-do-digital-humanists-do.pdf)? | 
-| Data mining and data curation | Miriam Posner, [Humanities Data as a Necessary Contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/) | 
-Introduction to [Hypothesis](https://github.com/) | 
-| Working with Data | Christoph Schoch, [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/) | 
+| Data mining and data curation | Miriam Posner, [Humanities Data as a Necessary Contradiction](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/) | |
+| Working with Data | Christoph Schoch, [Big? Smart? Clean? Messy? Data in the Humanities](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/) | Introduction to [Hypothesis](https://github.com/) | 
 | Metadata | NISO, [“Understanding Metadata”](https://www.lter.uaf.edu/metadata_files/UnderstandingMetadata.pdf) | Introduction to [Zotero](https://www.zotero.org/) |
  
 ***Working With Data***  
@@ -49,9 +48,9 @@ Introduction to [Hypothesis](https://github.com/) |
 
 |	Topics  |	Readings  |	Activities |
 | ------------ |  ---------- |  ----------- | 
-| The project: introduction and methods | Laura Estill, [Collaborative Knowledge and Student-Led Design](http://digitalhumanities.org:8081/dhq/vol/11/3/000320/000320.html), Douglas Seefeldt and William G Thomas, III, [“What is digital history?”](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1097&context=historyfacpub) | TBD | Annotations |
-| Designing DH research; DH project management | Carole Palmer, [Thematic Research Collections](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_24.html), Daniel Pitti, [Designing Sustainable Projects and Publications](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_31.html) | TBD | Annotations |
-| Minimal Computing	| Introduction to Minimal Computing,  Alex Gil, [The User, The Learner and the Machines we Make](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) | [Introduction to Wax](https://minicomp.github.io/wax/) (prior computer prep), Introduction to Github
+| The project: introduction and methods | Laura Estill, [Collaborative Knowledge and Student-Led Design](http://digitalhumanities.org:8081/dhq/vol/11/3/000320/000320.html), Douglas Seefeldt and William G Thomas, III, [“What is digital history?”](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1097&context=historyfacpub) | TBD | 
+| Designing DH research; DH project management | Carole Palmer, [Thematic Research Collections](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_24.html), Daniel Pitti, [Designing Sustainable Projects and Publications](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_31.html) | TBD | 
+| Minimal Computing	| Introduction to Minimal Computing,  Alex Gil, [The User, The Learner and the Machines we Make](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) | [Introduction to Wax](https://minicomp.github.io/wax/) (prior computer prep), Introduction to [Github](https://github.com) |
 | Minimal Computing | Introduction to [Jekyll](https://jekyllrb.com/) | Building Wax and Jekyll (prior computer prep) |
 
 ***Broader Themes***
