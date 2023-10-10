@@ -37,6 +37,7 @@ Introduction to [Hypothesis](https://github.com/) |
 | Archives and Repositories | Miguel Escobar Varela, [The Archive as Repertoire: Transience and Sustainability in Digital Archives](http://www.digitalhumanities.org/dhq/vol/10/4/000269/000269.html) | Introduction to [Omeka](https://omeka.org/) | 
 
 ***Visualizing Archives and Data***  
+
 |	Topics  |	Readings  |	Activities |
 | ------------ |  ---------- |  ----------- | 
 | Mapping and Visualizations | Jim Detwiler, [Introduction to Web Mapping](https://web.archive.org/web/20100731081233/https://www.e-education.psu.edu/geog863/book/export/html/1904) | Introduction to [Knight Lab – StoryMaps and Timeline](https://knightlab.northwestern.edu/projects/) | 
@@ -44,7 +45,7 @@ Introduction to [Hypothesis](https://github.com/) |
 | Digital Storytelling | | Introduction to Twine | TBD |
 | Digital Humanities and ethical storytelling | Introduction to Scalar	| TBD | 
 
-***Project Development and Management***  
+***Project Development and Management***    
 
 |	Topics  |	Readings  |	Activities |
 | ------------ |  ---------- |  ----------- | 
