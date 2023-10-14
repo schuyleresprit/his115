@@ -26,7 +26,7 @@ You will complete two (2) separate reviews of digital humanities project from an
 1. What is the project about? What is the major research question as you understand it?
 2. How did the researchers go about answering this question?
 3. What does the DH site look like? Describe the interface, including the aesthetics, accessibility of information, various pages included.
-4. What digital humanities tools are used to complete this project? Reference our readings on “What do digital humanists do?” “How do they make that?” and “Thematic Research Collections.” You can also look at the lecture Powerpoint to review relevant terms and tools.
+4. What digital humanities tools are used to complete this project? Reference our readings on “What do digital humanists do?” and “How do they make that?”. You can also look at the lecture Powerpoint to review relevant terms and tools.
 5. What do you think could be added/removed from this project to make it more effective in presenting the research?
 
 Each review is worth 50 points.
