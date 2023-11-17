@@ -44,9 +44,10 @@ __Semester 1__
 | Digital Storytelling |  Introduction to [Twine](https://twinery.org/) | TBD |
 
 ***Sustainable Digital Humanities***  
+
 | Topics | Readings |	Activities |  
 | ------------ |  ---------- |  ----------- |  
-| Minimal Computing	| Introduction to Minimal Computing,  Alex Gil, [The User, The Learner and the Machines we Make](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) | [Introduction to Wax](https://minicomp.github.io/wax/) (prior computer prep), Introduction to [Github](https://github.com) |  
+| Minimal Computing	| Introduction to Minimal Computing,  Alex Gil, [The User, The Learner and the Machines we Make](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) | [Introduction to Wax](https://minicomp.github.io/wax/), Introduction to [Github](https://github.com) |  
 | Minimal Computing | Introduction to [Jekyll](https://jekyllrb.com/), Introduction to [Ed](https://minicomp.github.io/ed/) | Building Wax and Jekyll |  
 
 ***Project Development and Management***    
