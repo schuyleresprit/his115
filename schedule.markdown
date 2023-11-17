@@ -59,7 +59,7 @@ __Semester 1__
 
 ***Broader Themes***
 
-|	Topics  |	Readings  |	Activities |
+|	Topics  |	Readings  |	Activities |  
 | ------------ |  ---------- |  ----------- | 
 | Ethical Concerns in DH and data visualization| Christina Boyles, Making and Breaking: Teaching Information Ethics through Curatorial Practice |	TBD |
 | DH and the question of sustainability	| Introduction to Creative Commons	| TBD | 
