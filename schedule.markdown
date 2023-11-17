@@ -40,9 +40,14 @@ __Semester 1__
 |	Topics  |	Readings  |	Activities |
 | ------------ |  ---------- |  ----------- | 
 | Mapping and Visualizations | Jim Detwiler, [Introduction to Web Mapping](https://web.archive.org/web/20100731081233/https://www.e-education.psu.edu/geog863/book/export/html/1904) | Introduction to [Knight Lab – StoryMaps and Timeline](https://knightlab.northwestern.edu/projects/) | 
-| Telling Stories in Space and Place |	Jo Guldi, What is the Spatial Turn?, Jo Guldi, The Spatial Turn in Literature | Introduction to ArcGIS	|
-| Digital Storytelling |  Introduction to Twine | TBD |
-| Digital Humanities and ethical storytelling | Introduction to Scalar	| TBD | 
+| Telling Stories in Space and Place |	Jo Guldi, [What is the Spatial Turn?](https://spatial.scholarslab.org/spatial-turn/), Jo Guldi, [The Spatial Turn in Literature](https://spatial.scholarslab.org/spatial-turn/the-spatial-turn-in-literature/index.html) | Introduction to [ArcGIS](https://www.arcgis.com/index.html) |
+| Digital Storytelling |  Introduction to [Twine](https://twinery.org/) | TBD |
+
+***Sustainable Digital Humanities***
+|	Topics  |	Readings  |	Activities |
+| ------------ |  ---------- |  ----------- | 
+| Minimal Computing	| Introduction to Minimal Computing,  Alex Gil, [The User, The Learner and the Machines we Make](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) | [Introduction to Wax](https://minicomp.github.io/wax/) (prior computer prep), Introduction to [Github](https://github.com) |
+| Minimal Computing | Introduction to [Jekyll](https://jekyllrb.com/), Introduction to [Ed](https://minicomp.github.io/ed/) | Building Wax and Jekyll |  
 
 ***Project Development and Management***    
 
@@ -50,8 +55,7 @@ __Semester 1__
 | ------------ |  ---------- |  ----------- | 
 | The project: introduction and methods | Laura Estill, [Collaborative Knowledge and Student-Led Design](http://digitalhumanities.org:8081/dhq/vol/11/3/000320/000320.html), Douglas Seefeldt and William G Thomas, III, [“What is digital history?”](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1097&context=historyfacpub) | TBD | 
 | Designing DH research; DH project management | Carole Palmer, [Thematic Research Collections](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_24.html), Daniel Pitti, [Designing Sustainable Projects and Publications](https://companions.digitalhumanities.org/DH/?chapter=content/9781405103213_chapter_31.html) | TBD | 
-| Minimal Computing	| Introduction to Minimal Computing,  Alex Gil, [The User, The Learner and the Machines we Make](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) | [Introduction to Wax](https://minicomp.github.io/wax/) (prior computer prep), Introduction to [Github](https://github.com) |
-| Minimal Computing | Introduction to [Jekyll](https://jekyllrb.com/) | Building Wax and Jekyll (prior computer prep) |
+
 
 ***Broader Themes***
 
