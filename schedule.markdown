@@ -41,7 +41,7 @@ __Semester 1__
 | ------------ |  ---------- |  ----------- | 
 | Mapping and Visualizations | Jim Detwiler, [Introduction to Web Mapping](https://web.archive.org/web/20100731081233/https://www.e-education.psu.edu/geog863/book/export/html/1904) | Introduction to [Knight Lab – StoryMaps and Timeline](https://knightlab.northwestern.edu/projects/) | 
 | Telling Stories in Space and Place |	Jo Guldi, [What is the Spatial Turn?](https://spatial.scholarslab.org/spatial-turn/), Jo Guldi, [The Spatial Turn in Literature](https://spatial.scholarslab.org/spatial-turn/the-spatial-turn-in-literature/index.html) | Introduction to [ArcGIS](https://www.arcgis.com/index.html) |
-| Digital Storytelling |  Introduction to [Twine](https://twinery.org/) | TBD |
+| Digital Storytelling |  Introduction to [Twine](https://twinery.org/) | [Twine Cookbook](https://twinery.org/cookbook/) |
 
 ***Sustainable Digital Humanities***  
 
