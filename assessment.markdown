@@ -55,16 +55,21 @@ All course participants will work on the same project for the duration of the se
 
 __Project Proposal__
 
-You are required to write a 500-word proposal of an individual digital humanities project that you will submit as part of the larger Space and Place project. You should think about a specific  (or set of) theme, genre, pattern, author, relationship that you would like to pursue and formulate one to three research questions that you would like to explore and answer during through DH  methods and tools. Your proposal should also include a brief explanation of why you want to explore that particular topic (i.e. what interested you. It may have been your time period assigned, your work in cleaning spreadsheet data, etc.). Your proposal should end with a description of the DH tools and methods you would use to visualize the results of your research. You should select at least one but no more than three tools to use for this project. You should indicate what type (or combination) of project you will be doing based on options readings by Paige Morgan and Miriam Posner. Some examples are:
-- Wax collection of specific content
+You are required to write a 500-word proposal of an individual digital humanities project that you will submit as part of the larger Caribbean Resistance project. Your proposal should include a brief explanation of why you chose the particular theme of resistance and what you hope to learn. Your proposal should also include your understanding of the broad connections between the novel(s) you chose and your selected theme of resistance. What are the key takeaways about this theme in the selected work and what do you think the author is attempting to say or accomplish about Caribbean life by highlighting this theme?  
+
+The proposal should end with a description of the DH tools and methods you are considering employing to visualize the results of your research. You should select at least one but no more than three tools to use for this project. You should indicate what type (or combination) of project you will be doing based on options readings by Paige Morgan and Miriam Posner (see course schedule for links). Some examples of digital tools are:  
+
+- Wax or Omeka digital archive or collection of specific content
 - Digital Edition of an unpublished or out of print work
 - Twine Storytelling or interactive game or experience on selected books/authors/genres/themes
 - ArcGIS Storymaps or other experience on selected books and/or authors
 - Knightlab JS Timeline and/or StoryMaps on specific books etc.
+- Omeka Neatline storytelling with maps and timelines 
+
 
 __Annotated Bibliography__
 As part of your research process, you should consult secondary sources (i.e. resources about the primary texts and people represented in the spreadsheet) that provide insight and context on the topic you selected. You should complete an annotated bibliography of 5 sources. For each source, you write a 3-5 sentence paragraph summarizing the resource, explaining its relevance to your topic, and how you may incorporate some of the information you’ve learned in that resource. Please include archival, primary and secondary sources from a wide range of platforms and publications. You can include YouTube content (use your discretion for appropriateness and research worthy), articles from newspapers like The New York Times and The Guardian, academic journal articles and books found on Google Books and Google Scholar, interviews, websites, etc. You must provide all relevant bibliographic data (in APA format) for each listing as you would in a research paper references page. Please also provide the link to the resource or to its citation to allow us to create the Zotero entry at a later time.
 
 __Final Project Presentations__
 
-You will present the final project as a group to an audience in a virtual format at the end of the semester. You will prepare a five-minute description of your contribution to the project , which includes challenges, successes and outcomes, for the presentation.
+You will present the final project as a group to an audience in a hybrid format at the RTC Internship Symposium. You will prepare a 15-minute description of your work on this individual project, which includes challenges, successes and outcomes.
